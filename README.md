@@ -4,7 +4,7 @@
 
 A web page containing quick access to my notes in regards to learning  HTML, CSS, JavaScript, and Git.
 
-The web page itself not only holds notes on the code and software to be learnt (and mentioned above), but is actually built using the it.
+The web page itself not only holds notes on the code and software to be learnt (and mentioned above), but is actually built using it.
 
 ## Installation
 
